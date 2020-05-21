@@ -1,0 +1,15 @@
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.csprojAssemblyReference.cache
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.AssemblyInfoInputs.cache
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.AssemblyInfo.cs
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.exe
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.deps.json
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.runtimeconfig.json
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.runtimeconfig.dev.json
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.dll
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Cog.pdb
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Azure.AI.TextAnalytics.dll
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Azure.Core.dll
+C:\Users\FIT\repos\Cog\bin\Debug\netcoreapp3.1\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.csproj.CopyComplete
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.dll
+C:\Users\FIT\repos\Cog\obj\Debug\netcoreapp3.1\Cog.pdb
